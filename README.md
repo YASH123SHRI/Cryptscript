@@ -39,7 +39,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Contributions to the Student Engagement and Analytics Platform are welcome. Feel free to open issues and submit pull requests.
 
 ## Authors
-- Mehul Mathur - [@mehulamish](https://github.com/mehulamish)
+- Yash Shrivastava - [@YASH123SHRI](https://github.com/YASH123SHRI)
 
 ## Acknowledgements
 - Special thanks to the contributors and developers who helped make this project possible.
