@@ -33,7 +33,7 @@ To use the Student Engagement and Analytics Platform, follow these steps:
 - Socket.io for real-time communication
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed.
 
 ## Contributing
 Contributions to the Student Engagement and Analytics Platform are welcome. Feel free to open issues and submit pull requests.
