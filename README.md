@@ -1,4 +1,4 @@
-# cryptscripts
+# School-Web
 Official repository for our Project for WebSprint Hackathon
 # Student Engagement and Analytics Platform
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
